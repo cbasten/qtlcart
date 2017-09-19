@@ -1,8 +1,18 @@
 # qtlcart
-QTL Cartographer Public Version
+QTL Cartographer Public Version 1.17f
 
 
-23 March 2004
+
+Updated on 19 September 2017
+
+What follows is the old README file. It is obsolete.  Code is now in github and you can 
+indicate issues there.  Contact Chris Basten directly at christopher.basten@gmail.com.  
+
+
+
+
+23 March 2004 
+
 
                         README file for QTL Cartographer.
 
@@ -15,7 +25,9 @@ experiments.
 Where to get QTL Cartographer:
 
 Via the web, point your browser to ftp://statgen.ncsu.edu/pub/qtlcart
-and shift-click on a file to download it. 
+and shift-click on a file to download it.   This probably doesn't work anymore.
+If you are reading this, you need to get the source from github at
+https://github.com/cbasten/qtlcart 
 
 Otherwise, ftp to statgen.ncsu.edu (152.14.14.17) with
 
